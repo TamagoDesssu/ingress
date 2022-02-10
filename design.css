@@ -1,0 +1,208 @@
+body
+{
+	background-image: url(img/bg.png);
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	height: 100%;
+	background-size:cover;
+}
+.banner
+{
+	font-family: Bebas Neue Light;
+	color: white;
+	text-align: center;
+	background-color: #008080;
+	font-style:
+}
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	width: 100%;
+}
+li
+{
+	float: left;
+	font-family: Bebas Neue Light;
+	font-size: 30px;
+}
+.about
+{
+	float:right;
+}
+li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover
+{
+	background-color: #111;	
+}
+.active
+{
+	background-color: black;
+}
+div#mainbody
+{
+	width: 85%;
+	margin: auto;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #004d4d;
+	padding: 3px 25px;
+}
+.viid
+{
+	margin:auto;
+	width:50%;
+}
+.ifrm
+{
+	width: 100%;
+	height: 100%;
+}
+p
+{
+	color: white;
+	font-family: Bebas Neue Thin;
+	font-size: 25px;
+	text-align: Justify;
+}
+#logo
+{
+	width: 200px;
+	padding-top: 25px;
+	padding-bottom: 3px;
+	float: left;
+}
+h2
+{
+	font-family: Bebas Neue Light;
+	color: white;
+}
+.items
+{
+	height: 250px;
+}
+.vid
+{
+	margin: auto;
+}
+
+table#ingressitems
+{
+	width: 90%;
+	margin: auto;
+}
+td
+{
+	color: white;
+	font-family: Bebas Neue Thin;
+	font-size: 25px;
+	text-align: justify;
+}
+td.img
+{
+	width: 30%;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+td.def
+{
+
+	width: 70%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+table#factions
+{
+	width: 100%;
+	margin: auto;
+}
+#galleryvid
+{
+	width:100%;
+	margin: auto;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	border: 1px solid white;
+.gall
+{
+	text-align:center;
+.modal-trigger{
+  text-decoration: none;
+  color: white;
+
+
+
+
+
+
+.lightbox {
+	/** Default lightbox to hidden */
+	display: none;
+
+	/** Position and style */
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+}
+.lightbox:target {
+	/** Remove default browser outline */
+	outline: none;
+
+	/** Unhide lightbox **/
+	display: block;
+}
+
+/** videoModal **/
+#videoModal {
+  border-radius: 0;
+  width: 870px;
+  margin:auto;}
+  #videoModal .modal-header {
+    background: #000;
+    border: 0;
+    color: #fff;
+    position: relative;
+		  height:35px; }
+    #videoModal .modal-header h3 {
+      font-size: 18px;
+      line-height: 22px;
+	  font-family:Arial, Helvetica, sans-serif;
+	  padding:5px;}
+  #videoModal .modal-body {
+    height: 489px;
+    padding: 0;
+    max-height: none;
+    overflow: hidden; }
+  #videoModal .modal-footer:empty {
+    display: none !important; }
+  #videoModal .close {
+    background: #DB00B8;
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+    opacity: 1;
+    position: absolute;
+    right: 0;
+    text-shadow: none;
+    top: 0;
+    width: 38px; }

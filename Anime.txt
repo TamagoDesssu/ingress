@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="design.css" rel="stylesheet" type="text/css">
+	<title>Ingress</title>
+	<link rel="shortcut icon" href="img\IngressLogo.png">
+</head>
+<body>
+<div>
+	<ul>
+		<li><a href="index.html">Home</a>
+		<li><a href="items.html" class="active">Items</a>
+		<li><a>Gameplay</a>
+		<li><a>Faction</a>
+		<li><a>Gallery</a>
+		<li><a>Anime</a>
+		<li class="about"><a>About</a>
+	</ul>
+</div>
+	<br>
+	<div id="mainbody">
+	<br>
+		<table id="ingressitems">
+			<tr>
+				<td class="img"><img class="items" src="img\ADA_Refactor.png"><br>ADA Refactor</td>
+				<td>The ADA Refactor is the Resistance Flip Card, a weapon that instantly switches an Enlightened portal to Resistance control. The item's functionality is identical to the JARVIS Virus, except it can only be used on Enlightened portals.
+				<br>
+				When an Enlightened player uses an ADA Refactor to flip an Enlightened 	portal, ownership of the portal, its mods, and its resonators will transfer to the <font color="blue">__ADA__</font> special account. 
+				</td>
+			</tr>
+			<tr>
+				<td class="img"><img class="items" src="img\Aegis_Shield.png"><br>Aegis Shield</td>
+				<td>The Aegis Shield (previously AXA Shield) is a Portal Shield with the highest Mitigation and Stickiness of its class.</td>
+			</tr>
+			<tr>
+				<td class="img"><img class="items" src="img\Beacon_Meetup.png"><br>Beacon</td>
+				<td>Beacons are items that can be used to mark certain portals in the Scanner. They are sold in the ingress Store and given out on special Niantic events such as Anomalies.
+				<BR>
+				Beacons last above the portal for 4 hours and can be seen by members of both factions. Beacons are not Portal Mods, they do not occupy a mod slot and can be applied to a fully modded Portal.</td>
+				</tr>
+		</table>
+		<br>
+	</div>
+</body>
+</html>

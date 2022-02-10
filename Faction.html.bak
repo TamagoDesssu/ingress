@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="design.css" rel="stylesheet" type="text/css">
+	<title>Ingress</title>
+	<link rel="shortcut icon" href="img\IngressLogo.png">
+	<script>
+	$('#videoLink')
+.magnificPopup({
+	  type:'inline',
+	  midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+  })
+
+	</script>
+</head>
+<body>
+<div>
+	<ul>
+		<li><a href="index.html">Home</a>
+		<li><a href="items.html">Items</a>
+		<li><a href="gameplay.html">Gameplay</a>
+		<li><a href="Faction.html" class="active">Faction</a>
+		<li><a href="gallery.html">Gallery</a>
+		<li><a href="Anime.html">Anime</a>
+		<li class="about"><a>About</a>
+	</ul>
+</div>
+	<br>
+	<div id="mainbody">
+	<p>Factions are teams in Ingress. The two factions are the <font color="#00e600">Enlightened</font> <img src="img\Enlightend_Logo.png" height="25px"> and <font color="#0040ff">Resistance</font> <img src="img\Resistance_Logo.png" height="25px">, who constantly fight each other for control over Portals and MU.</p>
+	<table id="factions">
+		<tr>
+			<td class="img">
+			<img src="img\Enlightend_Logo.png" class="Fact" height="250px">
+			</td>
+			<td class="def">
+			<p>The <font color="#00e600">Enlightened</font> <img src="img\Enlightend_Logo.png" height="25px"> <i>(ENL, colloquially known as frogs)</i> is one of the two factions in Ingress. Contrary to the beliefs of the Resistance Resistance Logo the Enlightened Enlightend Logo believe that the Shapers have existed since the beginning of mankind and are the reason for mankind's progress from the Stone age into the modern era.The Enlightened Enlightend Logo seek to progress mankind along its evolutionary path through art, music, science, and education.</p>
+			</td>
+		</tr>
+		<tr>
+			<td class="img">
+			<img src="img\Resistance_Logo.png" height="250px">
+			</td>
+			<td class="def">
+			<p>The <font color="#0040ff">Resistance</font> <img src="img\Resistance_Logo.png" height="25px"> <i>(RES, colloquially known as smurfs)</i> is one of the two factions in Ingress, represented blue within the game. Where the Enlightened Enlightend Logo are convinced the Shapers are trying to help humanity evolve, the Resistance Resistance Logo believes Shapers are here for their own purposes and want to protect humanity from the Shaper influence. As a result the Resistance Resistance Logo and Enlightened Enlightend Logo are in a constant state of war for control over portals and mind control fields.</p>
+			</td>
+	</table>
+	<br>
+<br><br>
+	</div>
+	<hr>
+	<br><br><br>
+</body>
+</html>

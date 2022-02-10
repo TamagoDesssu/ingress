@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="design.css" rel="stylesheet" type="text/css">
+	<title>Ingress</title>
+	<link rel="shortcut icon" href="img\IngressLogo.png">
+</head>
+<body>
+<div>
+	<ul>
+		<li><a href="index.html" class="active">Home</a>
+		<li><a href="items.html">Items</a>
+		<li><a href="gameplay.html">Gameplay</a>
+		<li><a href="Faction.html">Faction</a>
+		<li><a href="gallery.html">Gallery</a>
+		<li><a href="Anime.html">Anime</a>
+		<li class="about"><a>About</a>
+	</ul>
+</div>	
+		<div class="bann">
+			<h1 class="banner">The World is not as it seems</h1>
+		</div>
+		<div class="viid">
+			<video width="100%" autoplay="autoplay" controls>
+				<source src="vid\Playing_Ingress.mp4">
+			</video>
+		</div>
+		<br>
+	<div id="mainbody">
+	<img id="logo" src="img\IngressLogo.png" alt="Ingress Logo">
+	<p>
+		Ingress is an augmented reality massively multiplayer online role-playing location-based game created by Niantic Labs. The game was originally exclusively for Android devices and was made available for Apple's iOS on July 14, 2014. The game has a complex science fiction back story with a continuous open narrative.
+		<br>
+		An update to Ingress, dubbed Ingress Prime, was released November 5th, 2018. Rather than a sequel, it is billed as a massive update to the existing game, redesigning the experience with an updated interface, sounds, new features, and a new story arc. There will also potentially be an anime series that further fleshes out the world. 
+		<br><br>
+	</p>
+	<br>
+	<br>
+	<h2>Plot</h2>
+	<p>
+		Scientists working with the LHC at CERN in Geneva discover the existence of a mysterious particle, Exotic Matter (XM). The NIA, an American secret agency, then created the Niantic project, where they hired CERN scientists to study XM and its effects. There, <font color="#0040ff">ADA</font>, an AI, is created to assist the project. The Niantic project quickly discovers that the presence of XM In high concentrations around places with cultural importance is not natural and thus deduces that it was introduced by Aliens ("Shapers") and that it has a direct link with the creativity of human beings. During the Niantic Project, a prototype Power Cube explodes, subjecting all the members of the project to large doses of pure XM ("Epiphany Night"). Because of it, members run away and the project is shortly after closed. Most of the members of the project are quickly recruited by three companies, IQTech, Vizur, and Hulong, who try to use the XM for commercial purposes (it is these companies which develop the various available items).
+		<br>
+		Also at the time of the flight, a mobile phone of one of the members of the project is lost in a train and finds itself in the hands of an average guy and the scanner Ingress finds itself spread on Play Store, it is the beginning of the game. Very fast, two factions face each other: the <font color="#00e600">Enlightened</font><img src="img\Enlightend_Logo.png" height="25px">, who approve the influence of the XM and the action of Shapers, and the <font color="#0040ff">Resistance</font>, who are against. Both factions want to create fields to submit the people who are below (Mind Unit, MU) in the influence of the supposed XM to direct people to the one or the other camp. Most of the former members of the project Niantic align themselves with a camp or the other one and the Resistance fighters find themselves managed / represented by ADA whereas the leader of the Enlightened is Roland Jarvis, a mystic sculptor (where from the names of the viruses: ADA Refactor and JARVIS Virus). During this time another character, Hank Johnson, a former serviceman reconverted in the more or less occult documentary, discovers that the XM is known in reality since the Roman time. He also discovers that a secret society, 13Magnus, has existed since this period to defend the interests of the Resistance. 
+		<br>
+		Then there was full of complications, characters change camp, die but their soul finds itself scattered in the network of Portals (where from Shards, at the origin of personality's fragments), resuscitates... Roland Jarvis dies for good at the moment and is replaced by The Acolyte, his follower, as leader of the Enlightened. ADA becomes more important, tries to merge with a human being (Klue), but in the end Klue rejects her and ADA seems to stop being a threat. Few character appears in the middle of last year, Jahan, a follower of 13Magnus, becomes the representative of the Resistance and further to an anomaly activate a device which has to allow another extraterrestrial race <em>(N'Zeers, which set against the cultural evolution of Shapers a quite technological orientation)</em> to penetrate too into the network of Portals to fight Shapers and their influence. 
+		<br>
+		Thus we see that if underlying purpose of the Resistance fighters did not change, they became allied from now on to another extraterrestrial race to this end ... During the series of anomalies which has just finished the purpose for the representative of both factions was to obtain the control of a powerful Artifact created by a member of 13Magnus in the Roman time, the Obsidian Shield, supposed according to the faction which would use it to protect the network of Portals of the influence of the enemy extraterrestrial race. And it is thus the activation of the shield by The Acolyte continuation in the victory Enlightened which pulled the disappearance of all the XM <em>(quite allegedly protecting us from the influence of N'Zeers)</em>.
+	</p>
+	</div>
+	<hr>
+	<br><br><br>
+</body>
+</html>
